@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1445px" height="1452px" viewBox="0 0 1445 1452" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>systemDiagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="179" height="39" rx="3"></rect>
+        <rect id="path-3" x="0" y="0" width="45" height="53" rx="3"></rect>
+        <rect id="path-5" x="0" y="0" width="39" height="53" rx="3"></rect>
+        <rect id="path-7" x="0" y="0" width="45" height="53" rx="3"></rect>
+        <rect id="path-9" x="0" y="0" width="44" height="53" rx="3"></rect>
+        <rect id="path-11" x="0" y="0" width="94" height="39" rx="3"></rect>
+        <rect id="path-13" x="0" y="0" width="93" height="39" rx="3"></rect>
+        <rect id="path-15" x="0" y="0" width="93" height="39" rx="3"></rect>
+        <rect id="path-17" x="0" y="0" width="176" height="39" rx="3"></rect>
+        <rect id="path-19" x="0" y="0" width="114" height="39" rx="3"></rect>
+    </defs>
+    <g id="systemDiagram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="diagram" transform="translate(725.000000, 729.500000) rotate(45.000000) translate(-725.000000, -729.500000) translate(25.000000, 29.000000)" fill-rule="nonzero">
+            <g id="rings" transform="translate(-0.000000, 1.000000)" stroke="#000000">
+                <circle id="Oval-Copy" stroke-width="5" cx="700" cy="700" r="200"></circle>
+                <circle id="Oval-Copy-2" cx="700" cy="700" r="300"></circle>
+                <circle id="Oval-Copy-3" cx="700" cy="700" r="400"></circle>
+                <circle id="Oval-Copy-4" stroke-width="5" cx="700" cy="700" r="500"></circle>
+                <circle id="Oval-Copy-5" cx="700" cy="700" r="700"></circle>
+                <circle id="Oval" fill="#000000" cx="700" cy="700" r="100"></circle>
+            </g>
+            <g id="lines" transform="translate(-0.000000, 0.000000)" stroke-linecap="square">
+                <path d="M1200,700.5 L1400,700.5" id="Line-Copy-5" stroke="#000000" stroke-width="3"></path>
+                <path d="M1100,700.5 L1200,700.5" id="Line-Copy-4" stroke="#000000" stroke-width="3"></path>
+                <path d="M1000,700.5 L1100,700.5" id="Line-Copy-3" stroke="#000000" stroke-width="3"></path>
+                <path d="M900,700.5 L1000,700.5" id="Line-Copy-2" stroke="#000000" stroke-width="3"></path>
+                <path d="M800,700.5 L900,700.5" id="Line-Copy" stroke="#000000" stroke-width="3"></path>
+                <path d="M700,700.5 L800,700.5" id="Line" stroke="#FFFFFF" stroke-width="3"></path>
+                <path d="M600,700.5 L700,700.5" id="Line-Copy-5" stroke="#FFFFFF" stroke-width="3"></path>
+                <path d="M500,700.5 L600,700.5" id="Line-Copy-4" stroke="#000000" stroke-width="3"></path>
+                <path d="M400,700.5 L500,700.5" id="Line-Copy-3" stroke="#000000" stroke-width="3"></path>
+                <path d="M300,700.5 L400,700.5" id="Line-Copy-2" stroke="#000000" stroke-width="3"></path>
+                <path d="M200,700.5 L300,700.5" id="Line-Copy" stroke="#000000" stroke-width="3"></path>
+                <path d="M0.0587765212,700.5 L200.058777,700.5" id="Line" stroke="#000000" stroke-width="3"></path>
+                <path d="M1065.74579,872.707545 L1165.74579,872.707545" id="Line-Copy-4" stroke="#000000" transform="translate(1115.745790, 872.707545) rotate(22.500000) translate(-1115.745790, -872.707545) "></path>
+                <path d="M234.25421,528.292455 L334.25421,528.292455" id="Line-Copy" stroke="#000000" transform="translate(284.254210, 528.292455) rotate(22.500000) translate(-284.254210, -528.292455) "></path>
+                <path d="M968.198052,1018.69805 L1068.19805,1018.69805" id="Line-Copy-4" stroke="#000000" transform="translate(1018.198052, 1018.698052) rotate(45.000000) translate(-1018.198052, -1018.698052) "></path>
+                <path d="M897.487373,947.987373 L997.487373,947.987373" id="Line-Copy-3" stroke="#000000" transform="translate(947.487373, 947.987373) rotate(45.000000) translate(-947.487373, -947.987373) "></path>
+                <path d="M402.512627,453.012627 L502.512627,453.012627" id="Line-Copy-2" stroke="#000000" transform="translate(452.512627, 453.012627) rotate(45.000000) translate(-452.512627, -453.012627) "></path>
+                <path d="M331.801948,382.301948 L431.801948,382.301948" id="Line-Copy" stroke="#000000" transform="translate(381.801948, 382.301948) rotate(45.000000) translate(-381.801948, -382.301948) "></path>
+                <path d="M822.207545,1116.24579 L922.207545,1116.24579" id="Line-Copy-4" stroke="#000000" transform="translate(872.207545, 1116.245790) rotate(67.500000) translate(-872.207545, -1116.245790) "></path>
+                <path d="M477.792455,284.75421 L577.792455,284.75421" id="Line-Copy" stroke="#000000" transform="translate(527.792455, 284.754210) rotate(67.500000) translate(-527.792455, -284.754210) "></path>
+                <path d="M234.25421,872.707545 L334.25421,872.707545" id="Line-Copy-4" stroke="#000000" transform="translate(284.254210, 872.707545) scale(-1, 1) rotate(22.500000) translate(-284.254210, -872.707545) "></path>
+                <path d="M326.642164,834.439201 L426.642164,834.439201" id="Line-Copy-3" stroke="#000000" transform="translate(376.642164, 834.439201) scale(-1, 1) rotate(22.500000) translate(-376.642164, -834.439201) "></path>
+                <path d="M1065.74579,528.292455 L1165.74579,528.292455" id="Line-Copy" stroke="#000000" transform="translate(1115.745790, 528.292455) scale(-1, 1) rotate(22.500000) translate(-1115.745790, -528.292455) "></path>
+                <path d="M331.801948,1018.69805 L431.801948,1018.69805" id="Line-Copy-4" stroke="#000000" transform="translate(381.801948, 1018.698052) scale(-1, 1) rotate(45.000000) translate(-381.801948, -1018.698052) "></path>
+                <path d="M402.512627,947.987373 L502.512627,947.987373" id="Line-Copy-3" stroke="#000000" transform="translate(452.512627, 947.987373) scale(-1, 1) rotate(45.000000) translate(-452.512627, -947.987373) "></path>
+                <path d="M897.487373,453.012627 L997.487373,453.012627" id="Line-Copy-2" stroke="#000000" transform="translate(947.487373, 453.012627) scale(-1, 1) rotate(45.000000) translate(-947.487373, -453.012627) "></path>
+                <path d="M968.198052,382.301948 L1068.19805,382.301948" id="Line-Copy" stroke="#000000" transform="translate(1018.198052, 382.301948) scale(-1, 1) rotate(45.000000) translate(-1018.198052, -382.301948) "></path>
+                <path d="M477.792455,1116.24579 L577.792455,1116.24579" id="Line-Copy-4" stroke="#000000" transform="translate(527.792455, 1116.245790) scale(-1, 1) rotate(67.500000) translate(-527.792455, -1116.245790) "></path>
+                <path d="M822.207545,284.75421 L922.207545,284.75421" id="Line-Copy" stroke="#000000" transform="translate(872.207545, 284.754210) scale(-1, 1) rotate(67.500000) translate(-872.207545, -284.754210) "></path>
+                <path d="M600,1300.5 L800,1300.5" id="Line-Copy-5" stroke="#000000" stroke-width="3" transform="translate(700.000000, 1300.500000) rotate(90.000000) translate(-700.000000, -1300.500000) "></path>
+                <path d="M650,1150.5 L750,1150.5" id="Line-Copy-4" stroke="#000000" stroke-width="3" transform="translate(700.000000, 1150.500000) rotate(90.000000) translate(-700.000000, -1150.500000) "></path>
+                <path d="M650,1050.5 L750,1050.5" id="Line-Copy-3" stroke="#000000" stroke-width="3" transform="translate(700.000000, 1050.500000) rotate(90.000000) translate(-700.000000, -1050.500000) "></path>
+                <path d="M650,950.5 L750,950.5" id="Line-Copy-2" stroke="#000000" stroke-width="3" transform="translate(700.000000, 950.500000) rotate(90.000000) translate(-700.000000, -950.500000) "></path>
+                <path d="M650,850.5 L750,850.5" id="Line-Copy" stroke="#000000" stroke-width="3" transform="translate(700.000000, 850.500000) rotate(90.000000) translate(-700.000000, -850.500000) "></path>
+                <path d="M650,750.5 L750,750.5" id="Line" stroke="#FFFFFF" stroke-width="3" transform="translate(700.000000, 750.500000) rotate(90.000000) translate(-700.000000, -750.500000) "></path>
+                <path d="M650,650.5 L750,650.5" id="Line-Copy-5" stroke="#FFFFFF" stroke-width="3" transform="translate(700.000000, 650.500000) rotate(90.000000) translate(-700.000000, -650.500000) "></path>
+                <path d="M650,550.5 L750,550.5" id="Line-Copy-4" stroke="#000000" stroke-width="3" transform="translate(700.000000, 550.500000) rotate(90.000000) translate(-700.000000, -550.500000) "></path>
+                <path d="M650,450.5 L750,450.5" id="Line-Copy-3" stroke="#000000" stroke-width="3" transform="translate(700.000000, 450.500000) rotate(90.000000) translate(-700.000000, -450.500000) "></path>
+                <path d="M650,350.5 L750,350.5" id="Line-Copy-2" stroke="#000000" stroke-width="3" transform="translate(700.000000, 350.500000) rotate(90.000000) translate(-700.000000, -350.500000) "></path>
+                <path d="M650,250.5 L750,250.5" id="Line-Copy" stroke="#000000" stroke-width="3" transform="translate(700.000000, 250.500000) rotate(90.000000) translate(-700.000000, -250.500000) "></path>
+                <path d="M600.5,100.058777 L800.5,100.058777" id="Line" stroke="#000000" stroke-width="3" transform="translate(700.500000, 100.058777) rotate(90.000000) translate(-700.500000, -100.058777) "></path>
+            </g>
+        </g>
+        <g id="labels">
+            <g id="🚦Deep-Space-2" transform="translate(645.000000, 120.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Bounds" fill="#000000" xlink:href="#path-1"></use>
+                <text id="5-Deep-Space" mask="url(#mask-2)" font-family="SFUIText-Bold, SF UI Text" font-size="24" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.1699219" y="28">5 </tspan>
+                    <tspan x="32.2832031" y="28" font-family="SFUIText-Regular, SF UI Text" font-weight="normal">Deep Space</tspan>
+                </text>
+            </g>
+            <g id="🚦Deep-Space-2-Copy-6" transform="translate(707.000000, 0.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Bounds" fill="#000000" xlink:href="#path-3"></use>
+                <text id="0" mask="url(#mask-4)" font-family="SFUIText-Bold, SF UI Text" font-size="36" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.1777344" y="39">0</tspan>
+                </text>
+            </g>
+            <g id="🚦Deep-Space-2-Copy-8" transform="translate(1406.000000, 703.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Bounds" fill="#000000" xlink:href="#path-5"></use>
+                <text id="1" mask="url(#mask-6)" font-family="SFUIText-Bold, SF UI Text" font-size="36" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.2626953" y="39">1</tspan>
+                </text>
+            </g>
+            <g id="🚦Deep-Space-2-Copy-9" transform="translate(0.000000, 703.000000)">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Bounds" fill="#000000" xlink:href="#path-7"></use>
+                <text id="3" mask="url(#mask-8)" font-family="SFUIText-Bold, SF UI Text" font-size="36" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.4589844" y="39">3</tspan>
+                </text>
+            </g>
+            <g id="🚦Deep-Space-2-Copy-7" transform="translate(707.000000, 1399.000000)">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <use id="Bounds" fill="#000000" xlink:href="#path-9"></use>
+                <text id="2" mask="url(#mask-10)" font-family="SFUIText-Bold, SF UI Text" font-size="36" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.4160156" y="39">2</tspan>
+                </text>
+            </g>
+            <g id="🚦Deep-Space-2-Copy" transform="translate(677.000000, 260.000000)">
+                <mask id="mask-12" fill="white">
+                    <use xlink:href="#path-11"></use>
+                </mask>
+                <use id="Bounds" fill="#000000" xlink:href="#path-11"></use>
+                <text id="4-Ring" mask="url(#mask-12)" font-family="SFUIText-Bold, SF UI Text" font-size="24" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.4199219" y="28">4 </tspan>
+                    <tspan x="33.1308594" y="28" font-family="SFUIText-Regular, SF UI Text" font-weight="normal">Ring</tspan>
+                </text>
+            </g>
+            <g id="🚦Deep-Space-2-Copy-2" transform="translate(677.000000, 360.000000)">
+                <mask id="mask-14" fill="white">
+                    <use xlink:href="#path-13"></use>
+                </mask>
+                <use id="Bounds" fill="#000000" xlink:href="#path-13"></use>
+                <text id="3-Ring" mask="url(#mask-14)" font-family="SFUIText-Bold, SF UI Text" font-size="24" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.1542969" y="28">3 </tspan>
+                    <tspan x="32.3964844" y="28" font-family="SFUIText-Regular, SF UI Text" font-weight="normal">Ring</tspan>
+                </text>
+            </g>
+            <g id="🚦Deep-Space-2-Copy-3" transform="translate(677.000000, 460.000000)">
+                <mask id="mask-16" fill="white">
+                    <use xlink:href="#path-15"></use>
+                </mask>
+                <use id="Bounds" fill="#000000" xlink:href="#path-15"></use>
+                <text id="2-Ring" mask="url(#mask-16)" font-family="SFUIText-Bold, SF UI Text" font-size="24" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.4589844" y="28">2 </tspan>
+                    <tspan x="32.0917969" y="28" font-family="SFUIText-Regular, SF UI Text" font-weight="normal">Ring</tspan>
+                </text>
+            </g>
+            <g id="🚦Deep-Space-2-Copy-4" transform="translate(642.000000, 570.000000)">
+                <mask id="mask-18" fill="white">
+                    <use xlink:href="#path-17"></use>
+                </mask>
+                <use id="Bounds" fill="#000000" xlink:href="#path-17"></use>
+                <text id="1-Atmosphere" mask="url(#mask-18)" font-family="SFUIText-Bold, SF UI Text" font-size="24" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="10.1816406" y="28">1 </tspan>
+                    <tspan x="28.6855469" y="28" font-family="SFUIText-Regular, SF UI Text" font-weight="normal">Atmosphere</tspan>
+                </text>
+            </g>
+            <g id="🚦Deep-Space-2-Copy-5" transform="translate(677.000000, 710.000000)">
+                <mask id="mask-20" fill="white">
+                    <use xlink:href="#path-19"></use>
+                </mask>
+                <use id="Bounds" fill="#FFFFFF" xlink:href="#path-19"></use>
+                <text id="0-Planet" mask="url(#mask-20)" font-family="SFUIText-Bold, SF UI Text" font-size="24" font-weight="bold" fill="#000000">
+                    <tspan x="10.0898438" y="28">0 </tspan>
+                    <tspan x="32.7070312" y="28" font-family="SFUIText-Regular, SF UI Text" font-weight="normal">Planet</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
