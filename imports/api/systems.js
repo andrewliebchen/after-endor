@@ -1,5 +1,5 @@
 import { Mongo } from "meteor/mongo";
-import systemsList from "../../lib/systems";
+import systemsList from "../lib/systems";
 
 export const Systems = new Mongo.Collection("systems");
 

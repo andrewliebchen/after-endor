@@ -1,11 +1,10 @@
-import React from "react";
 import { BrowserRouter, Route } from "react-router-dom";
-import Systems from "./Systems";
-import systemsList from "../../lib/systems";
-import System from "./System";
 import AccountsWrapper from "./AccountsWrapper";
 import Profile from "./Profile";
+import React from "react";
 import Ships from "./Ships";
+import System from "./System";
+import Systems from "./Systems";
 
 const App = props => (
   <BrowserRouter>

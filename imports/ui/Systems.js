@@ -1,6 +1,6 @@
-import React from "react";
 import { Link } from "react-router-dom";
-import systemsList from "../../lib/systems";
+import React from "react";
+import systemsList from "../lib/systems";
 
 const Systems = props => (
   <ul>

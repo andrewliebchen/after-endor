@@ -1,9 +1,9 @@
-import React from "react";
 import { Meteor } from "meteor/meteor";
+import { Text } from "rebass";
 import { withRouter } from "react-router-dom";
 import { withTracker } from "meteor/react-meteor-data";
-import { Text } from "rebass";
 import Page from "./Page";
+import React from "react";
 
 const Profile = props =>
   props.player ? (
