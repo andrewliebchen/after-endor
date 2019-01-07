@@ -1,7 +1,7 @@
 import { CapitalShips } from "../api/capitalShips";
 import { Lead, Box, Label, Text, Button } from "rebass";
 import { withTracker } from "meteor/react-meteor-data";
-import capitalShipsList from "../../lib/capitalShips";
+import capitalShipsList from "../lib/capitalShips";
 import Page from "./Page";
 import React from "react";
 import Editable from "./Editable";
