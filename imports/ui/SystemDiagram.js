@@ -6,14 +6,12 @@ import { isInRange } from "../utils/helpers";
 import _ from "lodash";
 
 const Path = styled.path`
-  fill: ${props =>
-    _.isEqual(props.location, props.coordinates) ? "purple" : "white"};
+  fill: ${props => (props.isLocatedIn ? "purple" : "white")};
   stroke: black;
 
   &:hover {
     cursor: pointer;
-    fill: ${props =>
-      isInRange(props.location, props.coordinates, props.range) && "blue"};
+    fill: ${props => props.isInRange && "blue"};
   }
 `;
 
@@ -24,8 +22,8 @@ const SystemDiagram = props => (
         key={i}
         d={shape.path}
         onClick={() => console.log(shape.coordinates)}
-        {...shape}
-        {...props}
+        isInRange={isInRange(props.location, shape.coordinates, props.range)}
+        isLocatedIn={_.isEqual(props.location, shape.coordinates)}
       />
     ))}
   </svg>

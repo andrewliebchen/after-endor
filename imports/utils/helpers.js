@@ -9,15 +9,19 @@ export const isInRange = (start, end, range) => {
   */
 
   let rangeCount = range;
-  const rotationalValue = start[0] - end[0];
+  const rotationalValue = end[0] - start[0];
 
-  if (rotationalValue === -1 && start[1] === end[1] ) {
-    console.log("Clockwise");
-  } else if (rotationalValue > 0 || rotationalValue === -3 && start[1] === end[1]) {
-    console.log("Counterclockwise");
-  } else {
-    console.log("No rotation");
-    start.map((value, i) => (rangeCount -= Math.abs(value - end[i])));
+  switch (rotationalValue) {
+    case 1:
+    case 3:
+      if (start[1] === end[1]) {
+        rangeCount -= start[1] - end[2];
+      } else {
+        rangeCount = -1;
+      }
+      break;
+    default:
+      start.map((value, i) => (rangeCount -= Math.abs(value - end[i])));
   }
 
   return rangeCount >= 0;
