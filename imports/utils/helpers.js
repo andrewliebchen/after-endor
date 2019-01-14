@@ -9,10 +9,16 @@ export const isInRange = (start, end, range) => {
   */
 
   let rangeCount = range;
+  const rotationalValue = start[0] - end[0];
 
-  start.map((value, i) => (rangeCount -= Math.abs(value - end[i])));
-
-  // // TODO: Need to do something different if moving between quadrants
+  if (rotationalValue === -1 && start[1] === end[1] ) {
+    console.log("Clockwise");
+  } else if (rotationalValue > 0 || rotationalValue === -3 && start[1] === end[1]) {
+    console.log("Counterclockwise");
+  } else {
+    console.log("No rotation");
+    start.map((value, i) => (rangeCount -= Math.abs(value - end[i])));
+  }
 
   return rangeCount >= 0;
 };
